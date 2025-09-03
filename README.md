@@ -87,14 +87,4 @@ This system empowers banks and financial institutions to:
 - Maintain financial health through predictive insights
 
 
-## Author
-
-**Surya Vamsi Patiballa**  
-MS in Data Science at George Washington University
-
-- Email  :-  svamsi2002@gmail.com
-- LinkedIn  :-  https://www.linkedin.com/in/surya-patiballa-b724851aa/
-- Resume  :-  https://drive.google.com/file/d/178IYcArC6YYVdJiIwRmJYodzKZ-JXe-D/view?usp=sharing
-
-
 > “Smart lending starts with smart predictions.”
